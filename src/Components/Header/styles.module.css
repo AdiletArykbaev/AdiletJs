@@ -1,0 +1,74 @@
+.wrapper {
+  padding: 10px 10px;
+  border-bottom: 1px solid #6e6d7a;
+}
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+.list {
+  display: flex;
+}
+.list_item {
+  margin-left: 25px;
+  font-family: "Neue Haas Grotesk Display XXThin";
+}
+
+a {
+  color: #fff;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+}
+a:hover {
+  color: #ea4c89;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+}
+.signIn {
+}
+.firstPart {
+  display: flex;
+}
+.secondPart {
+  display: flex;
+}
+.shareBtn {
+  display: inline-block;
+  position: relative;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 40px;
+  padding: 10px 16px;
+  -webkit-transition: color 200ms ease;
+  transition: color 200ms ease;
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  background: #ea4c89;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  color: #fff;
+  margin-top: 5px;
+  margin-left: 15px;
+}
+.signIn {
+  color: #fff;
+}
+h3 {
+  color: #fff;
+}
